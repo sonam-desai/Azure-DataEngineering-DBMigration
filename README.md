@@ -1,4 +1,4 @@
-# db-migration-azure-data-engg
+# Azure-DataEngineering-DBMigration
 
 An end-to-end data engineering project involving:
 - Migration of on-premises SQL Server database to Azure Cloud
