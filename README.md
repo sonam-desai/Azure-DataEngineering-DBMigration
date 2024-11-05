@@ -20,5 +20,5 @@ Prerequisites:
 - [1_project_setup](./1_project_setup/README.md)
 - [2_data_ingestion](./2_data_ingestion/README.md)
 - [3_data_transformation](./3_data_transformation/README.md)
-- [4_data_loading](.4_data_loading/README.md)
+- [4_data_loading](./4_data_loading/README.md)
 - [5_data_reporting](./5_data_reporting/README.md)
