@@ -26,6 +26,6 @@
     - __silver__: to store enriched data
     - __gold__: to store final transformed data
   
-## Next Part
+## Next Step:
 [2_data_ingestion](./2_data_ingestion/README.md)
 
