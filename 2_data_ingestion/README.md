@@ -15,10 +15,6 @@ Add 'Copy data' activity to the pipeline.
 
 __Source is SQL Server__. Create SQL Server Linked Service (named **onpremsqlserver**) specifying database's connection properties. Make sure to have SQL server authentication mode enabled in SSMS.
 
-![SSMS SQL Auth Enabled](./img/sql-auth-ssms-enabled.png)
-
-
-![SQL Server Linked Service](./img/on-prem-sql-server-linked-service.png)
 
 For accessing db connection parameters stored in Key Vault (KV), create an AKV Linked Service for the SQL Server Linked Service. Grant __Key Vault Secrets User__ permission to ADF resource (__adf-dbmp__, a managed system identity) under __Access Control (IAM)__ in Key Vault resource. This will display all available secrets under Key Vault.
 
